@@ -1,3 +1,7 @@
+Fork purpose: make sure a .NET Standard version of this doesn't disappear.
+
+============
+
 Pushover.NET [![Build status](https://dev.azure.com/danesparza0161/Pushover.NET/_apis/build/status/Pushover.NET)](https://dev.azure.com/danesparza0161/Pushover.NET/_build/latest?definitionId=4) [![NuGet](https://img.shields.io/nuget/v/PushoverNET.svg)](https://www.nuget.org/packages/PushoverNET/)
 ============
 
